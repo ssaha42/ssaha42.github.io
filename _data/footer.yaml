@@ -1,7 +1,13 @@
 logos:
 
-  - logo_affiliation: assets/img/tntech_ece.png
+  - logo_affiliation: assets/img/tntech_ece_logo.png
     logo_alt_text: "TNTECH ECE"
     
-  - logo_affiliation: assets/img/tntech_cesr.png
+  - logo_affiliation: assets/img/cesr_logo.png
+    logo_alt_text: "CESR"
+
+  - logo_affiliation: assets/img/tntech_logo.png
+    logo_alt_text: "CESR"
+
+  - logo_affiliation: assets/img/tntech_engg.png
     logo_alt_text: "CESR"
