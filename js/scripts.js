@@ -670,7 +670,7 @@ class Particle {
     }
 }
 
-
+ 
 // Initialize 101 particles
 for (let i = 0; i < 101; i++) {
     particles.push(new Particle());
