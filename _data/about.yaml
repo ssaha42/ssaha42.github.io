@@ -1,5 +1,5 @@
 # basic information
-name: khang nguyen
+name: sohag saa
 profile-pic: assets/img/profile.jpg
 pronunciation: /kʰæŋ/
 pronunciation-emoji: 🎧
@@ -11,7 +11,7 @@ desc-emoji: four-leaf clover
 # social links
 scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
 researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-github: https://github.com/mkhangg
+github: https://github.com/ssaha42
 youtube: https://www.youtube.com/@_m.khangg_
 resume: assets/doc/Resume_KhangNguyen.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
@@ -20,12 +20,12 @@ orcid: https://orcid.org/0000-0003-3471-5533
 contact: show            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
-dept: cse @ uta
+dept: ece @ tntech
 lab: learn lab @ erb 128
-email: khang.nguyen@uta.edu
+email: ssaha42@tntech.edu
 phone: +1 (470) 815-5812
-website: https://mkhangg.com/
-web-dns: mkhangg.com
+website: https://ssaha42.tntech.edu/
+web-dns: ssaha42.tntech.com
 
 # about me
 first-paragraph: I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
