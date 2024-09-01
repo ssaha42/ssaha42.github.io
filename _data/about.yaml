@@ -34,8 +34,8 @@ research-introduction: I do research in robotics, mainly focusing on applying <c
 
 research-interests:
 
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  - field: Intelligent Energy Management in Grids
+    subfields: smart grid, microgrid, hardware-in-the-loop simulation
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: Machine Learning and Deep Learning in Power Systems
+    subfields: forecasting of solar irradiance, and load profiles
