@@ -3,90 +3,42 @@ updates:
   - picture: 
     desc: The  <hightlight> solar irradiance forecasting using hybrid deep learning </hightlight> paper accepted in NAPS 2024, Texas, US. 
     time: August 8th, 2024
+    
+  - picture: 
+    desc: The <hightlight>Peak Shaving using Battery Energy Storage Systems via Hardware-in-the-Loop (HIL)</hightlight> poster accepted in Appalachian Energy Summit 2023 (June 7-9), Appalachian State University, North Carolina, USA. 
+    time: May 26th, 2023
 
-
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
+  - picture: 
     desc: The <hightlight>MiTM attack for investing network vulnerabilities in smart grid</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
     time: May 8th, 2023
 
-
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
+  - picture: 
     desc: The <hightlight>anomaly detection techniques in smart grid</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
     time: May 8th, 2023
 
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
+  - picture: 
     desc: The <hightlight>digital twin application on autonomous vehicular systems</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
     time: May 8th, 2023
 
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
+  - picture: 
     desc: The <hightlight>automatic dust detection in solar PV panels using deep learning</hightlight> poster accepted in 18th Annual Research and Creative Inquiry Day-2023, Tennessee Technological University, TN, USA. 
     time: April 18th, 2023
 
 
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
-    desc: The <hightlight>Peak Shaving using Battery Energy Storage Systems via Hardware-in-the-Loop (HIL)</hightlight> poster accepted in Appalachian Energy Summit 2023 (June 7-9), Appalachian State University, North Carolina, USA. 
-    time: May 26th, 2024
-
-
-
-    
-
-  - picture: assets/img/updates_gan/graduation_boy.jpg
-    desc: I finished my <hightlight>undergrad studies in computer science </hightlight>u at UTA.
-    time: May 2024
-
-  - picture: assets/img/updates_gan/city_boy.jpg
-    desc: I will attend IROS 2023 in <hightlight>Detroit, Michigan</hightlight>. 
-    time: October 2023
-  
-  - picture: assets/img/updates_gan/travel_boy.jpg
-    desc: I will present at ISR 2023 in <hightlight>Stuttgart, Germany</hightlight>. 
-    time: September 2023
-
-  - picture: assets/img/updates_gan/holding_can_robot.jpg
-    desc: The <hightlight>deformable object classification</hightlight> paper is accepted to ISR 2023!
-    time: June 2023
-
-  - picture: assets/img/updates_gan/calibrating_robot.jpg
-    desc: The <hightlight>multiplanar self-calibration</hightlight> paper is accepted to IROS 2023!
-    time: June 2023
-
-  - picture: assets/img/updates_gan/fireworks_robot.jpg
-    desc: My <hightlight>thesis proposal</hightlight> is approved by the Honors College!
-    time: June 2023
-
-  - picture: assets/img/updates_gan/reading_boy_2.jpg
-    desc: I am invited to review papers at <hightlight>CASE 2023</hightlight>.
-    time: April 2023
-
-  - picture: assets/img/updates_gan/happy_robot.jpg
-    desc: The <hightlight>PerFC</hightlight> paper is accepted to FLAIRS-36!
-    time: March 2023
-
-  - picture: assets/img/updates_gan/reading_boy.jpg
-    desc: I am invited to review papers at <hightlight>UR 2023</hightlight>.
+  - picture: 
+    desc: I am invited to review papers at <hightlight>IEEE PES General Meeting</hightlight> conference.
     time: February 2023
-  
-  - picture: assets/img/updates_gan/spider_bot.jpg
-    desc: <hightlight>Spidey</hightlight> won sponsorship prizes at HackMIT 2022! 
-    time: October 2022
 
-  - picture: assets/img/updates_gan/boy_robot.jpg
-    desc: I joined the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> at UTA.
-    time: August 2022
-    
-  - picture: assets/img/updates_gan/happy_tree.jpg
-    desc: The <hightlight>IoTree</hightlight> paper is accepted to MobiCom 2022!
-    time: June 2022
+    - picture:
+    desc: I joined as a <hightlight> Graduate Teaching Assistant/ Instructor </hightlight> at the dept. of Electrical and Computer Engineering, Tennessee Tech University, USA.
+    time: August 2022  
 
-  - picture: assets/img/updates_gan/farm_bot.jpg
-    desc: <hightlight>iPlanter</hightlight> won prizes at GaTech RoboTech Hackathon 2022!
-    time: April 2022
-    
-  - picture: assets/img/updates_gan/boy_systems.jpg
-    desc: I joined the <hightlight>Wireless and Sensor Systems Lab (WSSL)</hightlight> at UTA.
+
+   - picture: 
+    desc: I received <hightlight>Bangladesh Sweden Trust Fund</hightlight> scholarship for covering the Travel expense of my PhD study at Tennessee Tech University, USA.
+    time: May 2022 
+
+  - picture:
+    desc: I joined as a <hightlight> Graduate Research Assistant at the Smart Grid Lab</hightlight> under the Center for the Energy Systems Research (CESR), Tennessee Tech University, USA.
     time: August 2021
 
-  - picture: assets/img/updates_gan/boy_school.jpg
-    desc: I start my undergrad at the <hightlight>University of Texas at Arlington (UTA)</hightlight>.
-    time: August 2020
