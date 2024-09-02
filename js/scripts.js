@@ -112,7 +112,7 @@ function initializeOwlCarousel() {
         slideBy: 'page',
         responsive: {
             0: {items: 1.5},
-            600: {items: 23},
+            600: {items: 2},
             900: {items: 4},
             1200: {items: 5}
         }
