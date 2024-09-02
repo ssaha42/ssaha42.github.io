@@ -1024,3 +1024,8 @@ canvas {
     height: 100%;
     z-index: -1;
 }
+
+
+/* Content Alignment*/
+
+.content-alignment {text-align: justify}
