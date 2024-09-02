@@ -1,12 +1,35 @@
 updates:
 
   - picture: assets/img/updates_gan/fireworks_robot.jpg
-    desc: The  <hightlight> solar irradiance forecasting </hightlight> paper accepted in NAPS 2024, Texas. 
+    desc: The  <hightlight> solar irradiance forecasting using hybrid deep learning </hightlight> paper accepted in NAPS 2024, Texas, US. 
     time: August 8th, 2024
 
-  - picture: assets/img/updates_gan/lab_boy.jpg
-    desc: I will continue my <hightlight>PhD studies in robotics</hightlight> at the LEARN Lab. 
-    time: May 2024
+
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The <hightlight>MiTM attack for investing network vulnerabilities in smart grid</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
+    time: May 8th, 2023
+
+
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The <hightlight>anomaly detection techniques in smart grid</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
+    time: May 8th, 2023
+
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The <hightlight>digital twin application on autonomous vehicular systems</hightlight> paper accepted in IEEE World AI IoT Congress (AIIoT) 2023, Seattle, WA, US. 
+    time: May 8th, 2023
+
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The <hightlight>automatic dust detection in solar PV panels using deep learning</hightlight> poster accepted in 18th Annual Research and Creative Inquiry Day-2023, Tennessee Technological University, TN, USA. 
+    time: April 18th, 2023
+
+
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The <hightlight>Peak Shaving using Battery Energy Storage Systems via Hardware-in-the-Loop (HIL)</hightlight> poster accepted in Appalachian Energy Summit 2023 (June 7-9), Appalachian State University, North Carolina, USA. 
+    time: May 26th, 2024
+
+
+
+    
 
   - picture: assets/img/updates_gan/graduation_boy.jpg
     desc: I finished my <hightlight>undergrad studies in computer science </hightlight>u at UTA.
