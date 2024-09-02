@@ -679,7 +679,6 @@ div.desc {
     margin: 3px;
     border: 1px solid #ccc;
     float: left;
-    width: 214px;
     /* width: 211px; */
     display: flex;
     flex-direction: column;
