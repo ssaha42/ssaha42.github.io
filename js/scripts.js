@@ -111,13 +111,18 @@ function initializeOwlCarousel() {
         lazyLoad: false,
         slideBy: 'page',
         responsive: {
-            0: {items: 1.75},
-            600: {items: 3},
-            900: {items: 5},
-            1200: {items: 6}
+            0: {items: 1.5},
+            600: {items: 23},
+            900: {items: 4},
+            1200: {items: 5}
         }
     });
 }
+
+//            0: {items: 1.75},
+//            600: {items: 3},
+//            900: {items: 5},
+//            1200: {items: 6}
 
 // Touch and mouse event listeners
 let isDragging = false;
