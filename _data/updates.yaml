@@ -1,6 +1,10 @@
 updates:
 
   - picture: assets/img/updates_gan/lab_boy.jpg
+    desc: Our research paper on <highlight> deep learning based solar irradiance forecasting </highlight> got accepted in <highlight> North American Power Symposiums (NAPS) 2024 </hightlight> and will present this work at the University of Texas, El Paso at Texas. 
+    time: August 8th, 2024
+
+  - picture: assets/img/updates_gan/lab_boy.jpg
     desc: I will continue my <hightlight>PhD studies in robotics</hightlight> at the LEARN Lab. 
     time: May 2024
 
