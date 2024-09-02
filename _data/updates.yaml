@@ -1,7 +1,7 @@
 updates:
 
-  - picture: 
-    desc: A paper on <highlight> deep learning based solar irradiance forecasting </highlight> got accepted in <hightlight> North American Power Symposiums (NAPS) 2024, Texas <hightlight>. 
+  - picture: assets/img/updates_gan/fireworks_robot.jpg
+    desc: The  <hightlight> solar irradiance forecasting <hightlight> paper accepted in NAPS 2024, Texas. 
     time: August 8th, 2024
 
   - picture: assets/img/updates_gan/lab_boy.jpg
@@ -9,7 +9,7 @@ updates:
     time: May 2024
 
   - picture: assets/img/updates_gan/graduation_boy.jpg
-    desc: I finished my <hightlight>undergrad studies in computer science</hightlight> at UTA.
+    desc: I finished my <hightlight>undergrad studies in computer science <hightlight>u at UTA.
     time: May 2024
 
   - picture: assets/img/updates_gan/city_boy.jpg
