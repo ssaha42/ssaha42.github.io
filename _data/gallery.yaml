@@ -1,25 +1,47 @@
-introduction: not all about robots, but also some happy moments of my life.
+introduction: Not all about research, but also some happy moments of my life.
 
 pictures:
   
-  - source: assets/memo/iros23.jpg
-    caption: me and tuan also met new friends at iros
-    year: 2023
-
-  - source: assets/memo/snow_football.jpg
-    caption: first time playing football on snow
+  
+  - source: assets/memo/1.jpg
+    caption: Protection and Control panels at Smart Grid Lab, Tennessee Tech University
     year: 2022
 
-  - source: assets/memo/aquarium.jpg
-    caption: i saw school of fish at georgia aquarium
+  - source: assets/memo/2.jpg
+    caption: Smart Grid Lab's working desk
+    year: 2022
+
+  - source: assets/memo/3.jpg
+    caption: Visit to Great Smooky Mountain National Park, TN
     year: 2021
 
-  - source: assets/memo/ki_yeu.jpg
-    caption: these crazy boys from ptnk i1720
+  - source: assets/memo/4.jpg
+    caption: First day of my graduate school at Tennessee Tech 
+    year: 2021
+
+  - source: assets/memo/5.jpg
+    caption: A get together of Bangladeshi students community members
+    year: 2022
+	
+  
+  - source: assets/memo/6.jpg
+    caption: Window of the world program at Quad, TnTECH
+    year: 2022
+
+  - source: assets/memo/7.jpg
+    caption: Watching American soccer game at Geodis Park Stadium, Nashville
+    year: 2022
+
+  - source: assets/memo/8.jpg
+    caption: Overhauling of Gas Turbine of 450 MW CCPP of Ashuganj Power Station, Bangladesh 
     year: 2020
 
-  - source: assets/memo/harvard.jpg
-    caption: wolfram summer research program fieldtrip
+  - source: assets/memo/9.jpg
+    caption: Night view of Ashuganj 450 MW Combined cycle power plant, Ashuganj, Bangladesh 
     year: 2019
+
+  - source: assets/memo/10.jpg
+    caption: Inside the control room of Ashuganj 450 MW South Power Plant
+    year: 2021
 
 
