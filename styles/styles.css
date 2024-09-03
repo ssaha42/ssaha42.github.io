@@ -672,8 +672,8 @@ div.desc {
 /* Styles for update cards */
 .news-card {
     background-color: none;
-    width: 99%;
-    height: 180px;
+    width: 98%;
+    height: 190px;
     /* height: 365px; height: 291px; width: 180px; height: 225px;*/
     border-radius: 7px;
     margin: 3px;
