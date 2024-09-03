@@ -22,9 +22,6 @@ links:
   - git-api: https://api.github.com/repos/mkhangg/academic-website
     category: misc
 
-  - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
-    category: research
-
   - git-api: https://api.github.com/repos/mkhangg/calib_cobot
     category: research
 
