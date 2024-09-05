@@ -28,10 +28,10 @@ projects:
 
 
   - title: Multivariate Optimal Hybrid Deep Learning Model for Forecasting of Day-Ahead Solar Irradiance with Meteorological Constraints
-    system-name: 
+    system-name: CCLGS
     gif: assets/img/plot_irradiance_summer.svg
     conference: North American Power Symposium (NAPS) 2024 (10/13/2024-10/15/2024)
-    conference-web: 
+    conference-web: https://www.utep.edu/engineering/naps2024/
     status:
     authors: <u>Sohag Kumar Saha</u>, Satish M. Mahajan.
     pdf: assets/papers/NAPS_Conference_2024_Paper.pdf
