@@ -14,6 +14,15 @@ categories:
   - data-filter: coding-interview
     category-name: coding-interview
 
+  - data-filter: EB1A-guidance
+    category-name: EB1A-guidance
+
+  - data-filter: FE-Exam-Electrical
+    category-name: FE-Exam-Electrical
+
+    
+    
+
   
 
 links:
@@ -29,6 +38,12 @@ links:
 
   - git-api: https://api.github.com/repos/sohagkumarsaha/coding-interview-university
     category: coding-interview
+
+  - git-api: https://api.github.com/repos/ssaha42/EB1A_guidelines
+    category: EB1A-guidance
+
+  - git-api: https://api.github.com/repos/sohagkumarsaha/FE-EXAM-ELECTRICAL__GUIDELINES
+    category: FE-Exam-Electrical
     
 
 
