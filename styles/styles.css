@@ -688,7 +688,6 @@ div.desc {
     flex-grow: 1;
     padding: 0.4rem 1rem 0rem 1rem;
     font-size: 13px;
-    text-align: justify;
 }
 .news-time {
     color: grey;
@@ -1027,11 +1026,9 @@ canvas {
 
 
 /* Content Alignment*/
-
-.content-alignment {text-align: justify}
-
-.project {
+.news-desc,.content-alignment,.project,.outreach_text_align {
     text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    word-spacing: -0.05em;
 }
-
-.outreach_text_align{text-align: justify;}
