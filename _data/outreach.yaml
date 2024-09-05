@@ -1,13 +1,13 @@
 mini-projects:
 
-  - title: An Autonomous Spatial Voice Localization Crawling Robot
-    system-name: Spidey
-    gif: assets/img/demo_spidey.gif
-    event: HackMIT 2022 (Boston, MA, U.S.)
-    event-web: https://hackmit.org/
-    team: <u>Khang Nguyen</u>.
-    post: https://spectacle.hackmit.org/project/185
-    code: https://github.com/mkhangg/hackmit22
-    demo: https://youtu.be/m1g6fkH6Zvg
-    description: We present an autonomous spatial voice localization crawling robot demonstrating the potential of assistive technology for people with visual impairment to ask for help whenever they are in a spatial area without physical assistance. 
-    prize: Won Sponsorship Award for Assistive Technologies over 198 competing teams.
+  - title: Design of An Intelligent Supervision Relay for Protection of Tertiary Winding of the Power Auto-Transformer 
+    system-name: APSCL-ISVRelay
+    gif: 
+    event: Innovation Idea Project, APSCL,  BD
+    event-web: https://apscl.gov.bdapscl/
+    team: <u>Sohag  Kumar Saha</u>, Oli Ahad Khan, and M.H. Khan
+    post: 
+    code: 
+    demo: 
+    description: We have presented a smart intelligent relay for supervision of the protection of the tertiary winding of the power auto-transformer of the inter-bus coupling transformer of Ashuganj 132/230 kV Grid Substation, Ashuganj, B.Baria, Bangladesh.  
+    prize: 
