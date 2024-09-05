@@ -1029,3 +1029,7 @@ canvas {
 /* Content Alignment*/
 
 .content-alignment {text-align: justify}
+
+.project {
+    text-align: justify;
+}
