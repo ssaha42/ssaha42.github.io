@@ -29,12 +29,10 @@ pictures:
     caption: At Great Smooky Mountain National Park, TN
     year: 2021
 
-  - source: assets/memo/4.jpg
-    caption: First day at Tennessee Tech 
-    year: 2021
+
 
   - source: assets/memo/5.jpg
-    caption: Get together of Bangladeshi students
+    caption: Bangladeshi students at TNTECH
     year: 2022
     
   - source: assets/memo/6.jpg
@@ -45,6 +43,10 @@ pictures:
   - source: assets/memo/9.jpg
     caption: Night view of 450 MW CCPP Plant APSCL
     year: 2019
+
+  - source: assets/memo/4.jpg
+    caption: First day of Grad School at Tennessee Tech 
+    year: 2021    
 
 
 
