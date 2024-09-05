@@ -41,7 +41,7 @@ projects:
     talk: 
     abstract-less: With the growing integration of solar power generation into smart grids, accurate solar irradiance forecasting is of paramount importance for efficient grid operation and renewable energy management. In this paper, a data decomposition approach with two different methods of deep learning and grid search optimization was combined to develop a better hybrid model to forecast solar irradiance. The proposed model combines spatial and temporal information to improve forecasting accuracy by considering the impact of meteorological constraints such as global horizontal irradiance, temperature, relative humidity, wind speed, cloud type, direct normal irradiance, diffuse horizontal irradiance, and solar zenith angle. In addition to the model architecture, this work incorporates hyper-parameter optimization to fine-tune the parameters of the model for optimal performance. The design of the model ensures that the system adapts to the specific characteristics of the solar irradiance data and meteorological conditions under consideration. The proposed hybrid model was evaluated using real-world data to outperform traditional forecasting methods in terms of accuracy. The results of the proposed hybrid model indicate better prediction ability as measured by four parameters (lower RMSE and MAE, fewer epochs, and a higher \({R^2}\) co-efficient). 
     tag: more_scene_perception
-    category: conference
+    category: Conference
     
 
   - title: Online 3D Deformable Object Classification for Mobile Cobot Manipulation
