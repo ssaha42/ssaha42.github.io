@@ -6,25 +6,43 @@ categories:
   - data-filter: framework
     category-name: framework
 
+  - data-filter: Journal 
+    category-name: Journal 
+
+  - data-filter: Conference 
+    category-name: Conference 
+
+  - data-filter: Poster 
+    category-name: Poster 
+
+  - data-filter: Book Chapter 
+    category-name: Book Chapter 
+
+  - data-filter: Arxiv-Preprint  
+    category-name: Arxiv-Preprint  
+
+    
+
 
 projects:
 
-  - title: Real-Time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision
+
+  - title: Multivariate Optimal Hybrid Deep Learning Model for Forecasting of Day-Ahead Solar Irradiance with Meteorological Constraints
     system-name: 
-    gif: assets/img/demo_scene_perception.gif
-    conference: arXiv (02/19/2024)
+    gif: assets/img/plot_irradiance_summer.svg
+    conference: North American Power Symposium (NAPS) 2024 (10/13/2024-10/15/2024)
     conference-web: 
     status:
-    authors: <u>Khang Nguyen</u>, Tuan Dang, Manfred Huber.
-    pdf: https://arxiv.org/pdf/2402.11872.pdf
-    code: https://github.com/mkhangg/semantic_scene_perception
-    demo: https://youtu.be/-dho7l_r56U
+    authors: <u>Sohag Kumar Saha</u>, Satish M. Mahajan.
+    pdf: 
+    code: 
+    demo: 
     slides: 
     talk: 
-    abstract-less: Perceiving a three-dimensional (3D) scene with multiple objects while moving indoors is essential for vision-based mobile cobots, especially for enhancing their manipulation tasks. In this work, we present an end-to-end pipeline with instance segmentation, feature matching, and point-set registration for egocentric robots with binocular vision, and demonstrate the robot's 
-    abstract-more: grasping capability through the proposed pipeline. First, we design an RGB image-based segmentation approach for single-view 3D semantic scene segmentation, leveraging common object classes in 2D datasets to encapsulate 3D points into point clouds of object instances through corresponding depth maps. Next, 3D correspondences of two consecutive segmented point clouds are extracted based on matched keypoints between objects of interest in RGB images from the prior step. In addition, to be aware of spatial changes in 3D feature distribution, we also weigh each 3D point pair based on the estimated distribution using kernel density estimation (KDE), which subsequently gives robustness with less central correspondences while solving for rigid transformations between point clouds. Finally, we test our proposed pipeline on the 7-DOF dual-arm Baxter robot with a mounted Intel RealSense D435i RGB-D camera. The result shows that our robot can segment objects of interest, register multiple views while moving, and grasp the target object.
+    abstract-less: With the growing integration of solar power generation into smart grids, accurate solar irradiance forecasting is of paramount importance for efficient grid operation and renewable energy management. In this paper, a data decomposition approach with two different methods of deep learning and grid search optimization was combined to develop a better hybrid model to forecast solar irradiance. The proposed model combines spatial and temporal information to improve forecasting accuracy by considering the impact of meteorological constraints such as global horizontal irradiance, temperature, relative humidity, wind speed, cloud type, direct normal irradiance, diffuse horizontal irradiance, and solar zenith angle. In addition to the model architecture, this work incorporates hyper-parameter optimization to fine-tune the parameters of the model for optimal performance. The design of the model ensures that the system adapts to the specific characteristics of the solar irradiance data and meteorological conditions under consideration. The proposed hybrid model was evaluated using real-world data to outperform traditional forecasting methods in terms of accuracy. The results of the proposed hybrid model indicate better prediction ability as measured by four parameters (lower RMSE and MAE, fewer epochs, and a higher \({R^2}\) co-efficient). 
     tag: more_scene_perception
-    category: perception manipulation
+    category: conference
+    
 
   - title: Online 3D Deformable Object Classification for Mobile Cobot Manipulation
     system-name: 
