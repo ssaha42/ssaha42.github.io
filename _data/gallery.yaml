@@ -11,6 +11,20 @@ pictures:
     caption: Smart Grid Lab,  CESR
     year: 2022
 
+  - source: assets/memo/10.jpg
+    caption: At control room of 450 MW CCPP, APSCL
+    year: 2021
+
+
+  - source: assets/memo/7.jpg
+    caption: Soccer at Geodis Park Stadium, Nashville
+    year: 2022
+
+  - source: assets/memo/8.jpg
+    caption: Overhauling of Gas Turbine of 450 MW CCPP 
+    year: 2020
+    
+    
   - source: assets/memo/3.jpg
     caption: At Great Smooky Mountain National Park, TN
     year: 2021
@@ -27,20 +41,11 @@ pictures:
     caption: Window of the world program, TNTECH
     year: 2022
 
-  - source: assets/memo/7.jpg
-    caption: Soccer at Geodis Park Stadium, Nashville
-    year: 2022
-
-  - source: assets/memo/8.jpg
-    caption: Overhauling of Gas Turbine of 450 MW CCPP of APSCL 
-    year: 2020
 
   - source: assets/memo/9.jpg
     caption: Night view of 450 MW CCPP Plant APSCL
     year: 2019
 
-  - source: assets/memo/10.jpg
-    caption: At control room of 450 MW CCPP, APSCL
-    year: 2021
+
 
 
