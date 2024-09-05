@@ -5,23 +5,30 @@ categories:
   - data-filter: grad-school-advice
     category-name: grad-school-advice
 
-  - data-filter: outreach
-    category-name: outreach
+  - data-filter: leetcode-solutions
+    category-name: leetcode-solutions
 
-  - data-filter: outreach
-    category-name: outreach
+  - data-filter: overleaf-latex-cheatcode
+    category-name: overleaf-latex-cheatcode
 
-  - data-filter: outreach
-    category-name: outreach
+  - data-filter: coding-interview
+    category-name: coding-interview
 
   
 
 links:
 
-  - git-api: https://api.github.com/repos/sohagkumarsaha/leetcode
+  - git-api: https://api.github.com/repos/sohagkumarsaha/awesome-grad-school
     category: grad-school-advice
 
-  - git-api: https://api.github.com/repos/mkhangg/hackmit22
-    category: outreach
+  - git-api: https://api.github.com/repos/sohagkumarsaha/leetcode
+    category: leetcode-solutions
+
+  - git-api: https://api.github.com/repos/sohagkumarsaha/latex_overleaf_cheatsheet
+    category: overleaf-latex-cheatcode
+
+  - git-api: https://api.github.com/repos/sohagkumarsaha/coding-interview-university
+    category: coding-interview
+    
 
 
