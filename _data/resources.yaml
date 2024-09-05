@@ -2,17 +2,24 @@ introduction: all software releases of the above projects can also be found here
 
 categories:
 
-  - data-filter: research
-    category-name: research
+  - data-filter: grad-school-advice
+    category-name: grad-school-advice
 
   - data-filter: outreach
     category-name: outreach
+
+  - data-filter: outreach
+    category-name: outreach
+
+  - data-filter: outreach
+    category-name: outreach
+
   
 
 links:
 
-  - git-api: https://api.github.com/repos/mkhangg/refined_panoptic_mapping
-    category: research
+  - git-api: https://api.github.com/repos/sohagkumarsaha/leetcode
+    category: grad-school-advice
 
   - git-api: https://api.github.com/repos/mkhangg/hackmit22
     category: outreach
