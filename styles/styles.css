@@ -73,7 +73,11 @@ nav {
 }
 
 
-/* Styles for hamburger-icon button navigation bar */
+/* Styles for hamburger-icon button navigation bar 
+    border-top-right-radius: 7px; 
+    border-bottom-right-radius: 7px;
+    left: 190px;
+*/
 .nav-toggle-btn {
     padding: 10px 0px 15px 10px;
     display: inline-block;
@@ -87,10 +91,10 @@ nav {
     border: 2px solid #ddd;
     position: absolute;
     top: 2.5rem;
-    left: 190px;
+    left: 191px;
     line-height: 50px;
-    border-top-right-radius: 7px;
-    border-bottom-right-radius: 7px;
+    border-top-right-radius: 0px; 
+    border-bottom-right-radius: 0px;
     cursor: pointer;
     transition: 0.5s;
 }
