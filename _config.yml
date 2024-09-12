@@ -1,7 +1,7 @@
 # headers and icon 
 title: Sohag Kumar Saha
 info: PhD in ECE @ TnTech
-icon-pic: assets/img/hello_emoji.jpg
+icon-pic: assets/img/hello_emoji.png
 
 # exclude these items when generated website in _site/index.html
 exclude:
