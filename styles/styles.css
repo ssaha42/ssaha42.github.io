@@ -166,6 +166,7 @@ nav ul li p span.text {
     text-decoration: underline;
     color: #bd5d38;
     cursor: pointer;
+    margin-left: 4px; 
 }
 nav ul li p:hover span.text {
     color: #824027;
