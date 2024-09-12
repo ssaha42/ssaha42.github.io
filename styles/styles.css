@@ -1036,3 +1036,9 @@ canvas {
     -webkit-hyphens: auto;
     word-spacing: -0.05em;
 }
+
+
+nav ul li {
+    text-align: -webkit-left;
+    margin-left: 35px;
+}
