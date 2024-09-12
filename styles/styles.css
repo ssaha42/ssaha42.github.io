@@ -150,7 +150,8 @@ nav ul {
     padding: 0;
 }
 nav ul li {
-    text-align: center;
+    text-align: left;
+    margin-left:35px;
 }
 nav ul li p {
     color: #bd5d38;
